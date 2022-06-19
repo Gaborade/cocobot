@@ -1,0 +1,6 @@
+__pycache__/
+venv
+redis_client.py
+since_id.txt
+bot.log
+.env
